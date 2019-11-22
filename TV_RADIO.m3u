@@ -1,0 +1,775 @@
+#EXTM3U
+ 
+ 
+
+
+
+#EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
+
+-------------------------------------------------------------informação----------------------------------------------------------------------------------------------
+
+#EXTINF:0  group-title="TV ABERTA",[COLOR cyan]  >>>>>>>>>>>>> TV <<<<<<<<<<<<<  [/COLOR]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
+
+
+
+         ///////////// TV ABERTA \\\\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="TV ABERTA",FILME
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/UMPNDEMAPRS.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA",BAND
+https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA",BAND HD
+https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA",BAND FHD
+https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="TV ABERTA",RECORD SD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="TV ABERTA",RECORD HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV ABERTA",SBT SD 
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b176000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV ABERTA",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w666504380_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV ABERTA",SBT HD 2
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV ABERTA",SBT HD 3
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w666504380_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="TV ABERTA",SBT CARUARU
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w342679154_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA",REDE TV RS
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w78412517.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w501586072.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA",REDE TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA",REDE TV HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1812058478.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r1ixTO" group-title="TV ABERTA",REDE MINAS HD
+https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w393028282.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37gw8Ho" group-title="TV ABERTA",TV GAZETA
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="VAGALUME",[COLOR green] >>> VAGALUME SOUNDS <<< [/COLOR]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
+
+
+
+         ///////////// VAGALUME FM \\\\\\\\\\
+
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/37iPcVE" group-title="VAGALUME", VAGALUME FM
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2On6AzQ" group-title="VAGALUME", VAGALUME VIBE
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/336HIBW" pltv-background="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", SAMBA E PAGODE - teste
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CYroII" pltv-wallpaper="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", DANCE MUSIC - teste
+https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r4r3S0" tvg-background="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", FERIAS - teste
+https://stream.vagalume.fm/hls/1474482422796242/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r2SHPs" tvg-wallpaper="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", DIVAS DO SERTANEJO - teste
+https://stream.vagalume.fm/hls/1520610884317212/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2px2ehf" group-title="VAGALUME", SERTANEJO ROMÂNTICO
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O1Q3T9" group-title="VAGALUME", SERTANEJO Hits
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2NYypzx" group-title="VAGALUME", LANÇAMENTOS
+https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/32XQ7XZ" group-title="VAGALUME", TOP 50 Internacionais
+https://stream.vagalume.fm/hls/1470170299760930/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CXQyHo" group-title="VAGALUME", pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OtPAb0" group-title="VAGALUME", ELETRÔNICA
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QxcGjP" group-title="VAGALUME", Coffee Break
+https://stream.vagalume.fm/hls/1523054358465576/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QvxSXl" group-title="VAGALUME", FAVORITAS
+https://stream.vagalume.fm/hls/1534365009290224/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CUF3QY" group-title="VAGALUME", LATINA
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Ok1pR2" group-title="VAGALUME", POP HOCK
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rbIhNd" group-title="VAGALUME", CARNAVAL
+https://stream.vagalume.fm/hls/1487264817696485/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35mjchH" group-title="VAGALUME", LIGHT
+https://stream.vagalume.fm/hls/1465325318422939937/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/347S71y" group-title="VAGALUME", ROCK
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O469f3" group-title="VAGALUME", Músicas para relaxar
+https://stream.vagalume.fm/hls/1487701935336993/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35kLw3F" group-title="VAGALUME", Músicas Virais
+https://stream.vagalume.fm/hls/1520610946872575/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2raqwhe" group-title="VAGALUME", POP Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QA023p" group-title="VAGALUME", NATAL
+https://stream.vagalume.fm/hls/1478284883245533/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37khUW8" group-title="VAGALUME", Reggaeton
+https://stream.vagalume.fm/hls/1528731816330561/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KAlEZE" group-title="VAGALUME", Halloween
+https://stream.vagalume.fm/hls/1477074894405450/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/33XFmGy" group-title="VAGALUME", AXÉ
+https://stream.vagalume.fm/hls/1470155159402151/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37hM0JO" group-title="VAGALUME", BREEZE
+https://stream.vagalume.fm/hls/1470679981257760/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OrPbWH" group-title="VAGALUME", FOLK
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OrPbWH" group-title="VAGALUME", #DEPRÊ
+https://stream.vagalume.fm/hls/1522261529679510/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KCqx4u" group-title="VAGALUME", Sertanejo Sofrência
+https://stream.vagalume.fm/hls/1529095568377255/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Opzz6a" group-title="VAGALUME", K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Opzz6a" group-title="VAGALUME", Para Trabalhar
+https://stream.vagalume.fm/hls/1489516250733476/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Xrwcja" group-title="VAGALUME", GOSPEL
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Oqlo0v" group-title="VAGALUME", ADRENALINA
+https://stream.vagalume.fm/hls/1523038897499421/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Ot78Ei" group-title="VAGALUME", INDIE Pop
+https://stream.vagalume.fm/hls/1475866463227696/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rZp6H1" group-title="VAGALUME", Música eletrônica brasileira
+https://stream.vagalume.fm/hls/152911357157777/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2NZsslW" group-title="VAGALUME", JAZZ
+https://stream.vagalume.fm/hls/14635148092037245616/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3373ntK" group-title="VAGALUME", ACUSTICO
+https://stream.vagalume.fm/hls/14634980201914128847/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O1K0he" group-title="VAGALUME", Deep House
+https://stream.vagalume.fm/hls/1470426692759789/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37jTDzk" group-title="VAGALUME", LIV
+https://stream.vagalume.fm/hls/1519409864627543/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OoRwln" group-title="VAGALUME", Surf & Relax
+https://stream.vagalume.fm/hls/1529016796595333/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/33ZmCqk" group-title="VAGALUME", Para Animar
+https://stream.vagalume.fm/hls/1529521496416843/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QIx0z1" group-title="VAGALUME", Para Malhar
+https://stream.vagalume.fm/hls/1507143889433932/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QtpDv4" group-title="VAGALUME", NOSTALGIA
+https://stream.vagalume.fm/hls/1524081924608496/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/343l1Q2" group-title="VAGALUME", MONDAY
+https://stream.vagalume.fm/hls/1522179349368851/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2pxnLGB" group-title="VAGALUME", Clima de Copa
+https://stream.vagalume.fm/hls/1528745033453663/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r89MqW" group-title="VAGALUME", Hard Hock
+https://stream.vagalume.fm/hls/1521216096352408/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XrMKaK" group-title="VAGALUME", HeartBreak
+https://stream.vagalume.fm/hls/1475692353902158/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37jfcAe" group-title="VAGALUME", Chillout Music
+https://stream.vagalume.fm/hls/1527177966837363/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r4RerK" group-title="VAGALUME", Bossa Nova
+https://stream.vagalume.fm/hls/1470154964926375/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qismNl" group-title="VAGALUME", PRIDE
+https://stream.vagalume.fm/hls/1527621626787962/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XsxZ7D" group-title="VAGALUME", FORRÓ
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CZnaAq" group-title="VAGALUME", BRITPOP
+https://stream.vagalume.fm/hls/1524768774460488/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O2kJUj" group-title="VAGALUME", Músicas católicas
+https://stream.vagalume.fm/hls/1520610908163452/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/32W3isA" group-title="VAGALUME", EXPERIMENTAL
+https://stream.vagalume.fm/hls/1470154835494468/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CXZlt2" group-title="VAGALUME", Hits Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QtCzkC" group-title="VAGALUME", Heavy Metal
+https://stream.vagalume.fm/hls/1479752883943544/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Ouk3po" group-title="VAGALUME", Power pop
+https://stream.vagalume.fm/hls/1470431300600900/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CU6VEW" group-title="VAGALUME", Rock Baladas
+https://stream.vagalume.fm/hls/1464720376206867533/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/33163ZJ" group-title="VAGALUME", DISCO Anos 70
+https://stream.vagalume.fm/hls/1474491605823572/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OsbknN" group-title="VAGALUME", Classic R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O1FVtC" group-title="VAGALUME", Músicas que fizeram história
+https://stream.vagalume.fm/hls/1477328440623592/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QuV73X" group-title="VAGALUME", BLUES
+https://stream.vagalume.fm/hls/1470154942300080/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r4Zbx6" group-title="VAGALUME", Letras Conhecidas (Nacionais)
+https://stream.vagalume.fm/hls/1521491976152594/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KAIv7A" group-title="VAGALUME", Foca no Estudo
+https://stream.vagalume.fm/hls/1523543144368951/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OscX4T" group-title="VAGALUME", Made in Brasil
+https://stream.vagalume.fm/hls/1475171877276322/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KEjB7c" group-title="VAGALUME", Sertanejo Raiz
+https://stream.vagalume.fm/hls/1486574587925026/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/343wMWG" group-title="VAGALUME", Jovem Guarda
+https://stream.vagalume.fm/hls/1520610873192520/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37kGHcz" group-title="VAGALUME", MTV MIAW 2018
+https://stream.vagalume.fm/hls/1523303095223467/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OriGYJ" group-title="VAGALUME", TODATEEN
+https://stream.vagalume.fm/hls/1508333521145139/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qrAnPX" group-title="VAGALUME", Para Viajar
+https://stream.vagalume.fm/hls/1508779923321353/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37kEWMB" group-title="VAGALUME", Sexyback
+https://stream.vagalume.fm/hls/1520623923815366/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/330dro4" group-title="VAGALUME", Músicas para Jantar a Dois
+https://stream.vagalume.fm/hls/1520884616242465/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XrSuBm" group-title="VAGALUME", Rock - Das Raízes ao Progressivo
+https://stream.vagalume.fm/hls/1475867272151401/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/341WpY7" group-title="VAGALUME", Rock - De Bowie ao século 21
+https://stream.vagalume.fm/hls/1476127912612917/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Xrl59Q" group-title="VAGALUME", Country Clássicos
+https://stream.vagalume.fm/hls/1520958056484488/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CWlEiz" group-title="VAGALUME", Flashback Brasil
+https://stream.vagalume.fm/hls/151742478997108/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OpdULr" group-title="VAGALUME", Pop Rock Brasil
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Qy7L2c" group-title="VAGALUME", Hits Anos 90
+https://stream.vagalume.fm/hls/1514919045178434/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/343VZ3p" group-title="VAGALUME", Country Hits
+https://stream.vagalume.fm/hls/1470155128108369/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/342lsdD" group-title="VAGALUME", Disney Hits
+https://stream.vagalume.fm/hls/1520610897818233/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35g9KME" group-title="VAGALUME", Lollapalooza Brasil 2017
+https://stream.vagalume.fm/hls/1489431633302472/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2pCq1MQ" group-title="VAGALUME", Lollapalooza Brasil 2018
+https://stream.vagalume.fm/hls/1519940414228077/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3304sU1" group-title="VAGALUME", Festa de Criança - Internacional
+https://stream.vagalume.fm/hls/1491501256193510/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CY6IR5" group-title="VAGALUME", Festa de Ano Novo 2017
+https://stream.vagalume.fm/hls/1514401831294954/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/335adQ5" group-title="VAGALUME", Natal Nacional
+https://stream.vagalume.fm/hls/1512580334801040/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CU4d2f" group-title="VAGALUME", Clássicos de Natal
+https://stream.vagalume.fm/hls/1512495299422539/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/32XQwtz" group-title="VAGALUME", Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OsetUM" group-title="VAGALUME", MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r5c7TG" group-title="VAGALUME", SUMMER
+https://stream.vagalume.fm/hls/14649773061696635722/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rZiqbX" group-title="VAGALUME", Punk Rock
+https://stream.vagalume.fm/hls/1470155080752829/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Xz299h" group-title="VAGALUME", INDIE 
+https://stream.vagalume.fm/hls/14641399081415544330/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37kXSLb" group-title="VAGALUME", Festa de Formatura
+https://stream.vagalume.fm/hls/1477328157403419/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2O14rL9" group-title="VAGALUME", Flashback
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rSacSK" group-title="VAGALUME", Grammy 2017
+https://stream.vagalume.fm/hls/1484590662935344/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35kDbNM" group-title="VAGALUME", Festa de Ano Novo
+https://stream.vagalume.fm/hls/1482937761512611/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OpSYUx" group-title="VAGALUME", Retrospectiva 2016
+https://stream.vagalume.fm/hls/1482178650187418/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qrXGco" group-title="VAGALUME", Pop Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35gAlZR" group-title="VAGALUME", Metal Sinfônico
+https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/33YuJDo" group-title="VAGALUME", Velha Guarda e Outras Bossas
+https://stream.vagalume.fm/hls/1477499745841352/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37oHtWe" group-title="VAGALUME", J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QyWBKl" group-title="VAGALUME", Love Mixtape
+https://stream.vagalume.fm/hls/1474916798454831/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/34cAUUJ" group-title="VAGALUME", Hardcore & Metalcore
+https://stream.vagalume.fm/hls/1474034184429476/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OuUcO7" group-title="VAGALUME", Hits - Antigos, mas nem tanto
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3438qfY" group-title="VAGALUME", Temas de séries e desenhos
+https://stream.vagalume.fm/hls/1473105774228701/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37iQTSV" group-title="VAGALUME", COVERS
+https://stream.vagalume.fm/hls/1471296944879557/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XqltFM" group-title="VAGALUME", Dance Music
+https://stream.vagalume.fm/hls/1470161190169185/aac.m3u
+
+#EXTINF:0 tvg-logo="https://bit.ly/342J5CR" group-title="VAGALUME", Punk Pop
+https://stream.vagalume.fm/hls/14660052232033106219/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2NZxP4y" group-title="VAGALUME", REGGAE
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/332ZpSJ" group-title="VAGALUME", Rock Clássico
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/346daBq" group-title="VAGALUME", O Melhor de U2
+https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35l2Pl9" group-title="VAGALUME", O MELHOR DE Adele
+https://stream.vagalume.fm/hls/1524166942596130/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37lRwLC" group-title="VAGALUME", O MELHOR DE Bruno Mars
+https://stream.vagalume.fm/hls/149858723873431/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/345KOqY" group-title="VAGALUME", O MELHOR DE John Mayer
+https://stream.vagalume.fm/hls/1491848189504196/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/32Y2eVe" group-title="VAGALUME", O MELHOR DE Madona
+https://stream.vagalume.fm/hls/1524166883702216/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Xt4hPJ" group-title="VAGALUME", O MELHOR DE Bob Marley
+https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OtfSdA" group-title="VAGALUME", O MELHOR DE Michael Jackson
+https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XveICl" group-title="VAGALUME", O MELHOR DE Beyoncé
+https://stream.vagalume.fm/hls/1524166820939567/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/332uqGv" group-title="VAGALUME", O MELHOR DE Arctic Monkeys
+https://stream.vagalume.fm/hls/1526052328949111/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35ivAPD" group-title="VAGALUME", O MELHOR DE R&B
+https://stream.vagalume.fm/hls/14660055301134442883/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/32ZwYVJ" group-title="VAGALUME", O MELHOR DE Led Zeppelin
+https://stream.vagalume.fm/hls/1498245335241623/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XxGuyb" group-title="VAGALUME", O MELHOR DE Queen
+https://stream.vagalume.fm/hls/1498761012966340/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2pyQHht" group-title="VAGALUME", O MELHOR DE Red Hot Chili Peppers
+https://stream.vagalume.fm/hls/1498587049275183/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Xq3zTA" group-title="VAGALUME", O MELHOR DE Green Day
+https://stream.vagalume.fm/hls/1498156439621697/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/332dmQE" group-title="VAGALUME", O MELHOR DE Charlie Brown Jr.
+https://stream.vagalume.fm/hls/1496775483807602/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CU8F0X" group-title="VAGALUME", O MELHOR DE Linkin Park
+https://stream.vagalume.fm/hls/1500578866216038/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qiVpAn" group-title="VAGALUME", O MELHOR DE Pink Floyd
+https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CWy4qH" group-title="VAGALUME", O MELHOR DE Guns 'N Roses
+https://stream.vagalume.fm/hls/1498674064969547/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OsudHd" group-title="VAGALUME", O MELHOR DE The Beatles
+https://stream.vagalume.fm/hls/1497301149923842/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/34eniIc" group-title="VAGALUME", O MELHOR DE Nirvana
+https://stream.vagalume.fm/hls/1498151997992567/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37jzn0T" group-title="VAGALUME", O MELHOR DE Legião Urbana e Renato Russo
+https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KyCIiH" group-title="VAGALUME", O MELHOR DE Coldplay
+https://stream.vagalume.fm/hls/1495654405992111/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2ptCX7s" group-title="VAGALUME", O MELHOR DE Rihanna
+https://stream.vagalume.fm/hls/1495655520843402/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2KD9IGC" group-title="VAGALUME", O MELHOR DE Katy Perry
+https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CUA9n8" group-title="VAGALUME", O MELHOR DE Ed Sheeran
+https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="RADIOS",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
+
+--------------------------------------------------------------------informações---------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="RADIOS",[COLOR cyan]  >>>>>>>> RADIOS <<<<<<<< [/COLOR]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="RADIOS",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
+
+
+                                     ///////////// RADIOS \\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qdB7It" group-title=" RADIOS ", COCA COLA FM
+https://str2b.openstream.co/1084?aw_0_1st.stationid=3908&aw_0_1st.publisherId=1108&aw_0_1st.serverId=str2b
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qggLhM" group-title=" RADIOS ",RADIO FM O DIA - RJ
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rWM6q7" group-title=" RADIOS ", RADIO MIX FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CV3zBG" group-title=" RADIOS ",RADIO DISNEY
+http://edge-np.cdn.mdstrm.com/5a9ee30411c043ae48e40bce.mp3
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OparfS" group-title=" RADIOS ", RADIO BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37gzvyf" group-title=" RADIOS ", RADIO BAND FM
+https://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1491161327.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/33X3bhG" group-title=" RADIOS ", RADIO TOP
+http://transamerica.crossradio.com.br:9106/stream/1/
+
+#EXTINF:0 tvg-logo="https://bit.ly/2qnRNwI" group-title=" RADIOS ", RADIO PIEMONTE FM
+http://server03.stmsg.com.br:7050/stream?1574101542313
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XqfsbV" group-title=" RADIOS ", RADIO 93 FM
+https://18133.live.streamtheworld.com/FM93_SC
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XpIF6Z" group-title=" RADIOS ", RADIO NATIVA - SP
+https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w1807315972.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CV2VnB" group-title=" RADIOS ", RADIO NATIVA - Araquara
+https://evpp.mm.uol.com.br/band/nativa_araraquara/chunklist_w1817007188.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CV2VnB" group-title=" RADIOS ", RADIO NATIVA - Campinas
+https://evpp.mm.uol.com.br/band/nativafm_camp/chunklist_w1907954996.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CV2VnB" group-title=" RADIOS ", RADIO NATIVA - Lorena
+https://evpp.mm.uol.com.br/band/nativafm_lor/chunklist_w2108341219.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2CV2VnB" group-title=" RADIOS ", RADIO NATIVA - SJ do Rio Preto
+https://evpp.mm.uol.com.br/band/nativa_riopreto/chunklist_w965337226.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2NYB38n" group-title=" RADIOS ", RADIO NATIVA COUNTRY
+https://evpp.mm.uol.com.br/band/nativacountry/chunklist_w1012943439.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37bp5jr" group-title=" RADIOS ", RADIO BANDEIRANTES - SP
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1245888203.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37bp5jr" group-title=" RADIOS ", RADIO BANDEIRANTES - RS
+https://evpp.mm.uol.com.br/band/radiobandeirantes_poa/chunklist_w1150469885.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37bp5jr" group-title=" RADIOS ", RADIO BANDEIRANTES - Campinas
+https://evpp.mm.uol.com.br/band/radiobandeirantes_camp/chunklist_w1995551489.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rW6Hec" group-title=" RADIOS ", RADIO BandMusic
+https://evpp.mm.uol.com.br/band/bandmusic/chunklist_w1496259393.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2QwpQh8" group-title=" RADIOS ", RADIO sterio vale - PopRock
+https://evpp.mm.uol.com.br/band/stereovale/chunklist_w1238723936.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35bn6K0" group-title=" RADIOS ", RADIO TRANSCONTINENTAL
+http://ice1.crossradio.com.br:8198/live.aac
+
+#EXTINF:0 tvg-logo="https://bit.ly/32YDw7d" group-title=" RADIOS ", RADIO GLOBO FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/3305Jdy" group-title=" RADIOS ", RADIO DUMONT FM
+https://64-237-45-183.webnow.com.br/dumont.aac
+
+#EXTINF:0 tvg-logo="https://bit.ly/2rY3qer" group-title=" RADIOS ", RADIO SUL AMERICA
+https://18313.live.streamtheworld.com/SULAMERICA_SC
+
+#EXTINF:0 tvg-logo="https://bit.ly/32YEDDV" group-title=" RADIOS ", RADIO JOVEM PAN
+http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2120525204.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r7kVIU" group-title=" RADIOS ", RADIO CBN
+https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/37gBd2C" group-title=" RADIOS ", RADIO GUAIBA
+http://cast4.audiostream.com.br:8007/app
+
+
+
+
+
+
+
+#EXTINF:0 group-title="SERIES",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
+
+--------------------------------------------------------------------informação---------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="SERIES",[COLOR cyan]  >>>>>>>> SERIES <<<<<<<< [/COLOR]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title="SERIES",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0 group-title=" CSI ",[COLOR yellow]CSI INVESTIGAÇÃO CRIMINAL[/COLOR]
+       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:0 group-title=" CSI ",[COLOR cyan] >>>>>1ª TEMPORADA<<<<<[/COLOR]
+
+                                     ///////////// CSI \\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", CSI -1ªT E1
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", CSI -1ªT E2
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP02.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", CSI -1ªT E3
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP03.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E4
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP04.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E5
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP05.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E6
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP06.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E7
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP07.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E8
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP08.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E9
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP09.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E10
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP10.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E11
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP11.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E12
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP12.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E13
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP13.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E14
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP14.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E15
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP15.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E16
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP16.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E17
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP17.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E18
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP18.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E19
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP19.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E20
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP20.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E21
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP21.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E22
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP22.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", SCI -1ªT E23
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP23.mp4?attachment=true
+
+
+#EXTINF:0 group-title=" CSI ",[COLOR cyan] >>>>>2ª TEMPORADA<<<<<[/COLOR]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E1
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP01.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E2
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP02.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E3
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP03.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E4
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP04.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E5
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP05.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E6
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP06.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E7
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP07.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E8
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP08.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E9
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP09.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E10
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP10.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E11
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP11.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E12
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP12.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E13
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP13.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E14
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP14.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E15
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP15.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E16
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP16.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E17
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP17.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E18
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP18.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E19
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP19.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E20
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP20.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E21
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP21.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E22
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP22.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title=" CSI ", SCI -2ªT E23
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
+
+
+
+
+#EXTINF:0 group-title="INFORMAÇÕES",[COLOR red] BY:  [/COLOR][COLOR darkblue]  ////////// [/COLOR][COLOR red]  FLP [/COLOR][COLOR darkblue]  \\\\\\\\\\ [/COLOR]
+
+----------------------------------------------------------------BYE-----------------------------------------------------------
