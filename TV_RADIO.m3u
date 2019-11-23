@@ -69,6 +69,8 @@ https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w393028282.m3u8
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="TV ABERTA",ESPN - TV GRATIS - TESTE
+blob:https://canaisgratis.org/95dd7022-0d8e-4494-b11a-cc24125cd1f1
 
 
 
@@ -776,9 +778,7 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title=" CSI ", SCI - 3ªT E1
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP01.mp4?attachment=true,"HD"
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP02.mp4?attachment=true ,SD
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP02.mp4?attachment=true , "SD"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP01.mp4?attachment=true"
 
 #EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title=" CSI ", SCI - 3ªT E2
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP02.mp4?attachment=true
