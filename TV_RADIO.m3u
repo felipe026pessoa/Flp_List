@@ -2,15 +2,11 @@
  
 
 #EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0  group-title="TV ABERTA",[COLOR cyan] >>>>>>>>>> TV <<<<<<<<<<  [/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
@@ -61,31 +57,19 @@ https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w393028282.m3u8
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="TV ABERTA",ESPN - TV GRATIS - TESTE
-https://canaisgratis.org/95dd7022-0d8e-4494-b11a-cc24125cd1f1
+blob:https://canaisgratis.org/f443f8a6-5399-48b4-898e-952982d3bfce
 
 #EXTINF:0 tvg-logo="" group-title="TV ABERTA",ESPN - TV GRATIS - TESTE 2
-https://canaisgratis.org/d6cc2831-078f-43be-a7d3-4d0a6e8c8301
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=
 
 #EXTINF:0 tvg-logo="" group-title="TV ABERTA",ESPN - TV GRATIS - TESTE 3
-https://canaisgratis.org/d6cc2831-078f-43be-a7d3-4d0a6e8c8301=true
-
-
-
-#EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:0 group-title="VAGALUME",[COLOR green]      VAGALUME SOUNDS  [/COLOR]
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=true
 
 #EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
-
-
-
-         ///////////// VAGALUME FM \\\\\\\\\\
-
-
+-------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="VAGALUME",[COLOR green]      VAGALUME SOUNDS  [/COLOR]
+-------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
 
 #EXTINF:0 tvg-logo="https://bit.ly/37iPcVE" group-title="VAGALUME", VAGALUME FM
 https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
@@ -492,17 +476,11 @@ https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2CUA9n8" group-title="VAGALUME", O MELHOR DE Ed Sheeran
 https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 
-
-
-
 #EXTINF:0 group-title="RADIOS",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="RADIOS",[COLOR cyan]  >>>>>>>> RADIOS <<<<<<<< [/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="RADIOS",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
-
 
 #EXTINF:0 tvg-logo="https://bit.ly/2qdB7It" group-title=" RADIOS ", COCA COLA FM
 https://str2b.openstream.co/1084?aw_0_1st.stationid=3908&aw_0_1st.publisherId=1108&aw_0_1st.serverId=str2b
@@ -585,22 +563,16 @@ https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/37gBd2C" group-title=" RADIOS ", RADIO GUAIBA
 http://cast4.audiostream.com.br:8007/app
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR cyan]  >>>>>>>> SERIES <<<<<<<< [/COLOR]
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR yellow]CSI Investigação criminal[/COLOR]
-       
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>1ª TEMPORADA<<<<<[/COLOR]
-
-
-                                     
+                                    
 #EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
 
@@ -670,11 +642,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP22.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E23
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP23.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>2ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP01.mp4?attachment=true
@@ -745,13 +714,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP22.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E23
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
 
-
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>3ª TEMPORADA<<<<<[/COLOR]
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP01.mp4?attachment=true
@@ -822,11 +786,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP22.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E23
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP23.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>4ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP01.mp4?attachment=true
@@ -897,11 +858,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP22.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E23
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP23.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>5ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP01.mp4?attachment=true
@@ -975,11 +933,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP23.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E24/25
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP24-25.mp4?attachment=true                 
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>6ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP01.mp4?attachment=true
@@ -1053,11 +1008,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP23.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E24
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP24.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>7ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP01.mp4?attachment=true
@@ -1131,11 +1083,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP23.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E24
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP24.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>8ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP01.mp4?attachment=true
@@ -1188,12 +1137,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP16.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E17
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP17.mp4?attachment=true
 
-
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>9ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP01.mp4?attachment=true
@@ -1267,11 +1212,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP23.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E24
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP24.mp4?attachment=true
 
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>10ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP01.mp4?attachment=true
@@ -1342,12 +1284,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP22.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E23
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP23.mp4?attachment=true
 
-
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>11ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP01.mp4?attachment=true
@@ -1415,12 +1353,8 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP21.mp4?attachment=true
 #EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E22
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP22.mp4?attachment=true
 
-
-
-
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>12ª TEMPORADA<<<<<[/COLOR]
-
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP01.mp4?attachment=true
