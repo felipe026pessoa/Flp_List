@@ -1,5 +1,6 @@
 #EXTM3U
  
+
 ------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
 
@@ -9,6 +10,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="TV ABERTA",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
 
+                                               //////// TV ABERTA \\\\\\\
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA",BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
@@ -67,6 +69,7 @@ https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-logo="" group-title="TV ABERTA",ESPN - TV GRATIS - TESTE 3
 https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=true
 
+
 #EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -74,6 +77,8 @@ https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=true
 -------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 group-title="VAGALUME",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR]
+
+                                               //////// VAGALUME \\\\\\\
 
 #EXTINF:0 tvg-logo="https://bit.ly/37iPcVE" group-title="VAGALUME", VAGALUME FM
 https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
@@ -480,6 +485,7 @@ https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2CUA9n8" group-title="VAGALUME", O MELHOR DE Ed Sheeran
 https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 
+
 #EXTINF:0 group-title="RADIOS",[COLOR red]///////////////\\\\\\\\\\\\\\\[/COLOR] 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -490,6 +496,8 @@ https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2qdB7It" group-title=" RADIOS ", COCA COLA FM
 https://str2b.openstream.co/1084?aw_0_1st.stationid=3908&aw_0_1st.publisherId=1108&aw_0_1st.serverId=str2b
+
+                                               //////// RADIOS \\\\\\\
 
 #EXTINF:0 tvg-logo="https://bit.ly/2qggLhM" group-title=" RADIOS ",RADIO FM O DIA - RJ
 https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
@@ -583,7 +591,8 @@ http://cast4.audiostream.com.br:8007/app
 
 
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>1ª TEMPORADA<<<<<[/COLOR]
--------------------------------------------------------------------------------------------------------------------------------
+
+                                               //////// SERIES \\\\\\\
                                    
 #EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
