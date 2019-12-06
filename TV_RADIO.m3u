@@ -10,10 +10,10 @@
 #EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>TV ABERTA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
- #EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO
+#EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/globorj_bc15c774_5221656180a9002f5bfe4f376a15d03e06f537e7.m3u8
 
-
- #EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO - 2
+#EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO - 2
 https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8
                                              
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA", BAND
@@ -64,7 +64,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV HD
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1812058478.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2sm7Bkx" group-title="TV ABERTA", TV Itarar?
+#EXTINF:0 tvg-logo="https://bit.ly/2sm7Bkx" group-title="TV ABERTA", TV Itararé
 rtmp://177.73.84.49/live/site
 
 #EXTINF:0 tvg-logo="https://bit.ly/2DhKMAv" group-title="TV ABERTA", TV Natal
@@ -85,6 +85,12 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1270928179.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2OJAGxC" group-title="TV ABERTA", TV CARIOCA.NET
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w57452582.m3u8
 
+#EXTINF:0 tvg-logo="https://bit.ly/35DXw0l" group-title="TV ABERTA", TV VIA MORENA
+https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w403754427.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/35DXw0l" group-title="TV ABERTA", TV VIA MORENA-oficial
+https://player-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w2133086039.m3u8
+
 #EXTINF:0 tvg-logo="https://bit.ly/2On9S7j" group-title="TV ABERTA", TV Aparecida SD
 https://caikron.com.br:8082/tvap/tvap/tvap/360p/chunks.m3u8
 
@@ -92,7 +98,7 @@ https://caikron.com.br:8082/tvap/tvap/tvap/360p/chunks.m3u8
 https://caikron.com.br:8082/tvap/tvap/tvap/720p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2On9S7j" group-title="TV ABERTA", TV Aparecida FHD
-https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
+https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8?nimblesessionid=27763815
 
 #EXTINF:0 tvg-logo="https://bit.ly/2DhC4SP" group-title="TV ABERTA", TV EVANGELIZAR
 http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w55920601.m3u8
@@ -100,20 +106,8 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w55920601.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2DhC4SP" group-title="TV ABERTA", TV EVANGELIZAR 2
 http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w1323543060.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2QTiR20" group-title="TV ABERTA", REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-
 #EXTINF:0 tvg-logo="https://bit.ly/33jw4DO" group-title="TV ABERTA", TV Universal 
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:0 tvg-logo="https://bit.ly/35DXw0l" group-title="TV ABERTA", TV VIA MORENA
-https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w403754427.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/35DXw0l" group-title="TV ABERTA", TV VIA MORENA-oficial
-https://player-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w1690742758.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/35DXw0l" group-title="TV ABERTA", TV VIA MORENA-oficial2
-https://player-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w170827788.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2QRYj9W" group-title="TV ABERTA", Gospel Movie TV
 https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist.m3u8?wowzasessionid=2055951224
@@ -125,10 +119,10 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1
 --------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/37COQcx" group-title="ESPORTES", MLB Network SD
-https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Stream_Saturday_20191123_1574533763934/800K/800_slide.m3u8
+
 
 #EXTINF:0 tvg-logo="https://bit.ly/37COQcx" group-title="ESPORTES", MLB Network HD
-https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Stream_Saturday_20191123_1574533763934/1800K/1800_slide.m3u8
+https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20191206_1575614554854/1200K/1200_slide.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/37E621p" group-title="ESPORTES", Red Bull TV SD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
