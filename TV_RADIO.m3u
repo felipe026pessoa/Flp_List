@@ -7,14 +7,9 @@
 -----------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
 
-#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>TV ABERTA<<<<<[/COLOR]
+#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>>>>TV ABERTA<<<<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/globorj_bc15c774_5221656180a9002f5bfe4f376a15d03e06f537e7.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/2OTyiEw" group-title="TV ABERTA", GLOBO - 2
-https://cerbot.kastream.biz/edge/veref41adf600cc33b7ee4cd14777ef4965/chunks.m3u8
                                              
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA", BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
@@ -115,7 +110,7 @@ https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist.m3u8?wowzasessionid=20559
 #EXTINF:0 tvg-logo="https://bit.ly/35yfxxh" group-title="TV ABERTA", Tv Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1926013319.m3u8
 
-#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>ESPORTES Internacionais<<<<<[/COLOR]
+#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] ESPORTES Internacionais [/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/37E621p" group-title="ESPORTES", Red Bull TV SD
@@ -139,12 +134,38 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2raJAg1" group-title="ESPORTES", Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2quMN9R" group-title="ESPORTES", Garage TV 1
-http://186.0.233.76:1935/Garage/smil:garage.smil/media_w685720194_b446000_sleng_130974.ts
-
-#EXTINF:0 tvg-logo="https://bit.ly/2quMN9R" group-title="ESPORTES", Garage TV 2
+#EXTINF:0 tvg-logo="https://bit.ly/2quMN9R" group-title="ESPORTES", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w685720194_b1396000_sleng.m3u8
 
+#EXTINF:0 tvg-logo="https://bit.ly/36c1EoM" group-title="ESPORTES", TV Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/36c1EoM" group-title="ESPORTES", TV Dubai Racing FHD
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/365tcw2" group-title="ESPORTES", Tv Jaguar
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2Lx4wVb" group-title="ESPORTES", CDO tv
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_w1244072481_b800000_slesp.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2RsYLfa" group-title="ESPORTES", RTV San Marino Sport
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1042000_slita.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2RsYLfa" group-title="ESPORTES", RTV San Marino Sport HD
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2YsTeXs" group-title="ESPORTES", Russian Extreme HD
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2YrAIhY" group-title="ESPORTES", Tv One News
+https://stream-03.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybF65CN5rkTO2QfHSFpJvkRU)/dm/3/x619221/s/live-3.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/38h8wmE" group-title="ESPORTES", InfoPescar Tv
+https://r2---sn-bg07dner.googlevideo.com/videoplayback?expire=1575772457&ei=yQzsXYmyLc6WxASH6q7QAQ&ip=177.37.156.186&id=Y3QD4TRzJLc.0&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&fvip=2&keepalive=yes&fexp=23842630&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRQIhALn2rm5ylBIWhrJJvaF_SkKYZLHA0I3IQ2Z0U1PkvCG_AiBW_M7GTPF6mnNogy2HCz9VG0gAWUZLe7p_BcjG4rvSng%3D%3D&redirect_counter=1&cm2rm=sn-cgpn5oxu-wqv67l&req_id=67ad29e8057ca3ee&cms_redirect=yes&mm=29&mn=sn-bg07dner&ms=rdu&mt=1575751058&mv=m&mvi=1&pl=21&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRgIhAN1Vwspky3I-E21u85ACC7kuVWxD1xMlu8mCG7nxjU21AiEAoElnpVRKXst4qhhc2KF6xCoHcJ3_NXXOtrtsogsJYEg=
+
+#EXTINF:0 tvg-logo="https://bit.ly/2YBL1QZ" group-title="ESPORTES", I News Tv
+https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 
 
 
