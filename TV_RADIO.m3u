@@ -1,16 +1,15 @@
 #EXTM3U
  
-
-#EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
-----------------------------------------------------------------------------------------------------------------
+           
+#EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
+-------------------------------------------------------------------------------------------------------------
 #EXTINF:0  group-title="TV ABERTA",[COLOR cyan] >>>>>>>>>> TV <<<<<<<<<<  [/COLOR]
------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
-
+ ------------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
+ ------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>>>>TV ABERTA<<<<<<<<[/COLOR]
---------------------------------------------------------------------------------------------------------------------------
-
-                                             
+ ------------------------------------------------------------------------------------------------------------    
+                                           
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA", BAND
 https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
 
@@ -30,7 +29,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT SD 
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b176000_sleng.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b176000_sleng.m3u8P
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w666504380_b216000_sleng.m3u8
@@ -114,7 +113,7 @@ https://stmv1.ifantasy.com.br/gospelf/gospelf/playlist.m3u8?wowzasessionid=20559
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1926013319.m3u8
 
 #EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] ESPORTES Internacionais [/COLOR]
---------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/37E621p" group-title="ESPORTES", Red Bull TV SD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -170,15 +169,12 @@ https://r2---sn-bg07dner.googlevideo.com/videoplayback?expire=1575772457&ei=yQzs
 #EXTINF:0 tvg-logo="https://bit.ly/2YBL1QZ" group-title="ESPORTES", I News Tv
 https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 
-
-
-
 #EXTINF:0 group-title="VAGALUME",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="VAGALUME",[COLOR green] >>>>>> VAGALUME SOUNDS <<<<<< [/COLOR]
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="VAGALUME",[COLOR green] >>>>> VAGALUME SOUNDS <<<<< [/COLOR]
+ --------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="VAGALUME",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
-----------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------
                              
 #EXTINF:0 tvg-logo="https://bit.ly/37iPcVE" group-title="VAGALUME", VAGALUME FM
 https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
@@ -186,25 +182,25 @@ https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2On6AzQ" group-title="VAGALUME", VAGALUME VIBE
 https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/336HIBW" pltv-fanart="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", SAMBA E PAGODE - teste
+#EXTINF:0 tvg-logo="https://bit.ly/336HIBW" group-title="VAGALUME", SAMBA E PAGODE
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2CYroII" pltv-fanart="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", DANCE MUSIC - teste
+#EXTINF:0 tvg-logo="https://bit.ly/2CYroII" group-title="VAGALUME", DANCE MUSIC
 https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2r4r3S0" tvg-fanart="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", FERIAS - teste 
+#EXTINF:0 tvg-logo="https://bit.ly/2r4r3S0" group-title="VAGALUME", FERIAS
 https://stream.vagalume.fm/hls/1474482422796242/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2r2SHPs" tvg-fanart="https://tinyurl.com/yyznzcj6" group-title="VAGALUME", DIVAS DO SERTANEJO - teste
+#EXTINF:0 tvg-logo="https://bit.ly/2r2SHPs" group-title="VAGALUME", DIVAS DO SERTANEJO
 https://stream.vagalume.fm/hls/1520610884317212/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2px2ehf" group-title="VAGALUME", SERTANEJO ROM?NTICO
+#EXTINF:0 tvg-logo="https://bit.ly/2px2ehf" group-title="VAGALUME", SERTANEJO ROMANTICO
 https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2O1Q3T9" group-title="VAGALUME", SERTANEJO Hits
 https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2NYypzx" group-title="VAGALUME", LAN?AMENTOS
+#EXTINF:0 tvg-logo="https://bit.ly/2NYypzx" group-title="VAGALUME", LANÇAMENTOS
 https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/32XQ7XZ" group-title="VAGALUME", TOP 50 Internacionais
@@ -213,7 +209,7 @@ https://stream.vagalume.fm/hls/1470170299760930/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2CXQyHo" group-title="VAGALUME", pop
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OtPAb0" group-title="VAGALUME", ELETR?NICA
+#EXTINF:0 tvg-logo="https://bit.ly/2OtPAb0" group-title="VAGALUME", ELETRÔNICA
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2QxcGjP" group-title="VAGALUME", Coffee Break
@@ -237,7 +233,7 @@ https://stream.vagalume.fm/hls/1465325318422939937/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/347S71y" group-title="VAGALUME", ROCK
 https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2O469f3" group-title="VAGALUME", M?sicas para relaxar
+#EXTINF:0 tvg-logo="https://bit.ly/2O469f3" group-title="VAGALUME", Musicas para relaxar
 https://stream.vagalume.fm/hls/1487701935336993/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/35kLw3F" group-title="VAGALUME", M?sicas Virais
@@ -255,7 +251,7 @@ https://stream.vagalume.fm/hls/1528731816330561/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2KAlEZE" group-title="VAGALUME", Halloween
 https://stream.vagalume.fm/hls/1477074894405450/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/33XFmGy" group-title="VAGALUME", AX?
+#EXTINF:0 tvg-logo="https://bit.ly/33XFmGy" group-title="VAGALUME", AXÉ
 https://stream.vagalume.fm/hls/1470155159402151/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/37hM0JO" group-title="VAGALUME", BREEZE
@@ -264,16 +260,16 @@ https://stream.vagalume.fm/hls/1470679981257760/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2OrPbWH" group-title="VAGALUME", FOLK
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OrPbWH" group-title="VAGALUME", #DEPR?
+#EXTINF:0 tvg-logo="https://bit.ly/2se1hLV" group-title="VAGALUME", #DEPRÊ
 https://stream.vagalume.fm/hls/1522261529679510/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2KCqx4u" group-title="VAGALUME", Sertanejo Sofr?ncia
+#EXTINF:0 tvg-logo="https://bit.ly/2KCqx4u" group-title="VAGALUME", Sertanejo Sofrência
 https://stream.vagalume.fm/hls/1529095568377255/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2Opzz6a" group-title="VAGALUME", K-Pop
 https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2Opzz6a" group-title="VAGALUME", Para Trabalhar
+#EXTINF:0 tvg-logo="https://bit.ly/2MliPNk" group-title="VAGALUME", Para Trabalhar
 https://stream.vagalume.fm/hls/1489516250733476/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2Xrwcja" group-title="VAGALUME", GOSPEL
@@ -285,7 +281,7 @@ https://stream.vagalume.fm/hls/1523038897499421/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2Ot78Ei" group-title="VAGALUME", INDIE Pop
 https://stream.vagalume.fm/hls/1475866463227696/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rZp6H1" group-title="VAGALUME", M?sica eletr?nica brasileira
+#EXTINF:0 tvg-logo="https://bit.ly/2rZp6H1" group-title="VAGALUME", Musica eletrônica brasileira
 https://stream.vagalume.fm/hls/152911357157777/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2NZsslW" group-title="VAGALUME", JAZZ
@@ -333,13 +329,13 @@ https://stream.vagalume.fm/hls/1470154964926375/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2qismNl" group-title="VAGALUME", PRIDE
 https://stream.vagalume.fm/hls/1527621626787962/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XsxZ7D" group-title="VAGALUME", FORR?
+#EXTINF:0 tvg-logo="https://bit.ly/2XsxZ7D" group-title="VAGALUME", FORRO
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2CZnaAq" group-title="VAGALUME", BRITPOP
 https://stream.vagalume.fm/hls/1524768774460488/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2O2kJUj" group-title="VAGALUME", M?sicas cat?licas
+#EXTINF:0 tvg-logo="https://bit.ly/2O2kJUj" group-title="VAGALUME", Musicas catolicas
 https://stream.vagalume.fm/hls/1520610908163452/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/32W3isA" group-title="VAGALUME", EXPERIMENTAL
@@ -363,7 +359,7 @@ https://stream.vagalume.fm/hls/1474491605823572/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2OsbknN" group-title="VAGALUME", Classic R&B
 https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2O1FVtC" group-title="VAGALUME", M?sicas que fizeram hist?ria
+#EXTINF:0 tvg-logo="https://bit.ly/2O1FVtC" group-title="VAGALUME", Musicas que fizeram historia
 https://stream.vagalume.fm/hls/1477328440623592/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2QuV73X" group-title="VAGALUME", BLUES
@@ -396,16 +392,16 @@ https://stream.vagalume.fm/hls/1508779923321353/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/37kEWMB" group-title="VAGALUME", Sexyback
 https://stream.vagalume.fm/hls/1520623923815366/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/330dro4" group-title="VAGALUME", M?sicas para Jantar a Dois
+#EXTINF:0 tvg-logo="https://bit.ly/330dro4" group-title="VAGALUME", Musicas para Jantar a Dois
 https://stream.vagalume.fm/hls/1520884616242465/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XrSuBm" group-title="VAGALUME", Rock - Das Ra?zes ao Progressivo
+#EXTINF:0 tvg-logo="https://bit.ly/2XrSuBm" group-title="VAGALUME", Rock - Das Raizes ao Progressivo
 https://stream.vagalume.fm/hls/1475867272151401/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/341WpY7" group-title="VAGALUME", Rock - De Bowie ao s?culo 21
+#EXTINF:0 tvg-logo="https://bit.ly/341WpY7" group-title="VAGALUME", Rock - De Bowie ao seculo 21
 https://stream.vagalume.fm/hls/1476127912612917/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2Xrl59Q" group-title="VAGALUME", Country Cl?ssicos
+#EXTINF:0 tvg-logo="https://bit.ly/2Xrl59Q" group-title="VAGALUME", Country Classicos
 https://stream.vagalume.fm/hls/1520958056484488/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2CWlEiz" group-title="VAGALUME", Flashback Brasil
@@ -429,7 +425,7 @@ https://stream.vagalume.fm/hls/1489431633302472/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2pCq1MQ" group-title="VAGALUME", Lollapalooza Brasil 2018
 https://stream.vagalume.fm/hls/1519940414228077/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/3304sU1" group-title="VAGALUME", Festa de Crian?a - Internacional
+#EXTINF:0 tvg-logo="https://bit.ly/3304sU1" group-title="VAGALUME", Festa de Criança - Internacional
 https://stream.vagalume.fm/hls/1491501256193510/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2CY6IR5" group-title="VAGALUME", Festa de Ano Novo 2017
@@ -438,7 +434,7 @@ https://stream.vagalume.fm/hls/1514401831294954/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/335adQ5" group-title="VAGALUME", Natal Nacional
 https://stream.vagalume.fm/hls/1512580334801040/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2CU4d2f" group-title="VAGALUME", Cl?ssicos de Natal
+#EXTINF:0 tvg-logo="https://bit.ly/2CU4d2f" group-title="VAGALUME", Classicos de Natal
 https://stream.vagalume.fm/hls/1512495299422539/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/32XQwtz" group-title="VAGALUME", Gospel Internacional
@@ -474,7 +470,7 @@ https://stream.vagalume.fm/hls/1482178650187418/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2qrXGco" group-title="VAGALUME", Pop Anos 90
 https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/35gAlZR" group-title="VAGALUME", Metal Sinf?nico
+#EXTINF:0 tvg-logo="https://bit.ly/35gAlZR" group-title="VAGALUME", Metal Sinfônico
 https://stream.vagalume.fm/hls/1477592024431906/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/33YuJDo" group-title="VAGALUME", Velha Guarda e Outras Bossas
@@ -492,7 +488,7 @@ https://stream.vagalume.fm/hls/1474034184429476/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2OuUcO7" group-title="VAGALUME", Hits - Antigos, mas nem tanto
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/3438qfY" group-title="VAGALUME", Temas de s?ries e desenhos
+#EXTINF:0 tvg-logo="https://bit.ly/3438qfY" group-title="VAGALUME", Temas de series e desenhos
 https://stream.vagalume.fm/hls/1473105774228701/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/37iQTSV" group-title="VAGALUME", COVERS
@@ -507,7 +503,7 @@ https://stream.vagalume.fm/hls/14660052232033106219/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2NZxP4y" group-title="VAGALUME", REGGAE
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/332ZpSJ" group-title="VAGALUME", Rock Cl?ssico
+#EXTINF:0 tvg-logo="https://bit.ly/332ZpSJ" group-title="VAGALUME", Rock Classico
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/346daBq" group-title="VAGALUME", O Melhor de U2
@@ -531,7 +527,7 @@ https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2OtfSdA" group-title="VAGALUME", O MELHOR DE Michael Jackson
 https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XveICl" group-title="VAGALUME", O MELHOR DE Beyonc?
+#EXTINF:0 tvg-logo="https://bit.ly/2XveICl" group-title="VAGALUME", O MELHOR DE BeyoncÉ
 https://stream.vagalume.fm/hls/1524166820939567/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/332uqGv" group-title="VAGALUME", O MELHOR DE Arctic Monkeys
@@ -561,7 +557,7 @@ https://stream.vagalume.fm/hls/1500578866216038/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2qiVpAn" group-title="VAGALUME", O MELHOR DE Pink Floyd
 https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2CWy4qH" group-title="VAGALUME", O MELHOR DE Guns 'N Roses
+#EXTINF:0 tvg-logo="https://bit.ly/2CWy4qH" group-title="VAGALUME", O MELHOR DE Guns'N Roses
 https://stream.vagalume.fm/hls/1498674064969547/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OsudHd" group-title="VAGALUME", O MELHOR DE The Beatles
@@ -570,7 +566,7 @@ https://stream.vagalume.fm/hls/1497301149923842/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/34eniIc" group-title="VAGALUME", O MELHOR DE Nirvana
 https://stream.vagalume.fm/hls/1498151997992567/aac.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/37jzn0T" group-title="VAGALUME", O MELHOR DE Legi?o Urbana e Renato Russo
+#EXTINF:0 tvg-logo="https://bit.ly/37jzn0T" group-title="VAGALUME", O MELHOR DE Legiao Urbana e Renato Russo
 https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2KyCIiH" group-title="VAGALUME", O MELHOR DE Coldplay
@@ -588,7 +584,7 @@ https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 #EXTINF:0 group-title="RADIOS",[COLOR darkred] ////////////////\\\\\\\\\\\\\\\\[/COLOR] 
 --------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="RADIOS",[COLOR cyan] >>>>>>>> RADIOS <<<<<<<< [/COLOR]
---------------------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="RADIOS",[COLOR darkred] ////////////////\\\\\\\\\\\\\\\\[/COLOR]
  ------------------------------------------------------------------------------------------------------------- 
                                
@@ -676,15 +672,15 @@ http://cast4.audiostream.com.br:8007/app
 #EXTINF:0 group-title="SERIES",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
 -----------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR cyan]  >>>>>>>> SERIES <<<<<<<< [/COLOR]
-------------------------------------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="SERIES",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
-------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="SERIES",[COLOR orange]CSI Investiga??o criminal[/COLOR]
-------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>1? TEMPORADA<<<<<[/COLOR]
-------------------------------------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="SERIES",[COLOR orange]CSI Investigação criminal[/COLOR]
+ ----------------------------------------------------------------------------------------------------------
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>1ª TEMPORADA<<<<<[/COLOR]
+ ----------------------------------------------------------------------------------------------------------
                                    
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E01
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E01
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E02
@@ -1688,6 +1684,6 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP22.mp4?attachment=true
 
 
 
-#EXTINF:0 group-title="INFORMA??ES",[COLOR red] BY:  [/COLOR][COLOR darkblue]  //////// [/COLOR][COLOR red]  FLP [/COLOR][COLOR darkblue]  \\\\\\\\ [/COLOR]
+#EXTINF:0 group-title="INFORMAÇÕES",[COLOR red] BY:  [/COLOR][COLOR darkblue]  //////// [/COLOR][COLOR red]  FLP [/COLOR][COLOR darkblue]  \\\\\\\\ [/COLOR]
 
 ----------------------------------------------------------------BYE-----------------------------------------------------------
