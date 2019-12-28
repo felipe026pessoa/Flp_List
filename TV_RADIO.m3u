@@ -1,5 +1,5 @@
 #EXTM3U
- 
+                       Ultima Atualização: 28/12/2019.
            
 #EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
 -------------------------------------------------------------------------------------------------------------
@@ -174,7 +174,7 @@ https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:0 group-title="VAGALUME",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
 ---------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="VAGALUME",[COLOR green] >>>>> VAGALUME SOUNDS <<<<< [/COLOR]
+#EXTINF:0 group-title="VAGALUME",[COLOR green] >>> VAGALUME SOUNDS <<< [/COLOR]
  --------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="VAGALUME",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
  --------------------------------------------------------------------------------------------------------
@@ -584,11 +584,11 @@ https://stream.vagalume.fm/hls/1495652324424489/aac.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/2CUA9n8" group-title="VAGALUME", O MELHOR DE Ed Sheeran
 https://stream.vagalume.fm/hls/1495569735124775/aac.m3u8
 
-#EXTINF:0 group-title="RADIOS",[COLOR darkred] ////////////////\\\\\\\\\\\\\\\\[/COLOR] 
+#EXTINF:0 group-title="RADIOS",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR] 
 --------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="RADIOS",[COLOR cyan] >>>>>>>> RADIOS <<<<<<<< [/COLOR]
  -------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="RADIOS",[COLOR darkred] ////////////////\\\\\\\\\\\\\\\\[/COLOR]
+#EXTINF:0 group-title="RADIOS",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
  ------------------------------------------------------------------------------------------------------------- 
                                
 #EXTINF:0 tvg-logo="https://bit.ly/2qdB7It" group-title=" RADIOS ", COCA COLA FM
@@ -686,993 +686,995 @@ http://cast4.audiostream.com.br:8007/app
 #EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E01
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E02
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E02
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E03
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E03
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E04
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E04
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E05
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E05
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E06
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E06
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E07
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E07
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E08
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E08
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E09
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E09
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E10
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E10
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E11
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E11
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E12
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E12
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E13
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E13
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E14
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E14
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title=" CSI ", CSI - 1?T E15
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="series", CSI - 1ªT E15
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E16
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E16
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E17
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E17
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E18
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E18
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E19
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E19
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E20
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E20
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E21
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E21
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E22
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E22
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1?T E23
+#EXTINF:0 tvg-logo="https://bit.ly/2XEVYQU" group-title="SERIES", CSI - 1ªT E23
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP23.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>2? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>2ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E01
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E01
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E02
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E02
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E03
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E03
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E04
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E04
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E05
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E05
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E06
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E06
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E07
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E07
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E08
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E08
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E09
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E09
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E10
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E10
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E11
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E11
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E12
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E12
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E13
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E13
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E14
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E14
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E15
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E15
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E16
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E16
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E17
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E17
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E18
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E18
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E19
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E19
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E21
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E21
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E22
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E22
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E23
+#EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2ªT E23
 https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>3? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>3ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E03
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E03
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT03EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rgp90S" group-title="SERIES", CSI - 3ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT03EP23.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>4? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>4ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT04EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2rkP9rM" group-title="SERIES", CSI - 4ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT04EP23.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>5? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>5ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP23.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5?T E24/25
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT05EP24-25.mp4?attachment=true                 
+#EXTINF:0 tvg-logo="https://bit.ly/2D84A9w" group-title="SERIES", CSI - 5ªT E24/25
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT05EP24-25.mp4?attachment=true                 
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>6? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>6ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP23.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6?T E24
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT06EP24.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2DdgA9I" group-title="SERIES", CSI - 6ªT E24
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT06EP24.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>7? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>7ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP23.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7?T E24
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT07EP24.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37AoFDe" group-title="SERIES", CSI - 7ªT E24
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT07EP24.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>8? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>8ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT08EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/34c0UPT" group-title="SERIES", CSI - 8ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT08EP17.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>9? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>9ª TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP23.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9?T E24
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT09EP24.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/37CKdPU" group-title="SERIES", CSI - 9ªT E24
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT09EP24.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>10? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>10ª TEMPORADA<<<<<[/COLOR]
 ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP22.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT10EP23.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2s8GzwE" group-title="SERIES", CSI - 10ªT E23
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT10EP23.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>11? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>11ª TEMPORADA<<<<<[/COLOR]
 ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT11EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2OCnEC2" group-title="SERIES", CSI - 11ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT11EP22.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>12? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>12ª TEMPORADA<<<<<[/COLOR]
 ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT12EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2pQCzQM" group-title="SERIES", CSI - 12ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT12EP22.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>13? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>13ª TEMPORADA<<<<<[/COLOR]
 ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E06
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E14
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E15
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E16
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT13EP22.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 13ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT13EP22.mp4?attachment=true
 
-#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>14? TEMPORADA<<<<<[/COLOR]
+#EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>14ª TEMPORADA<<<<<[/COLOR]
 ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E01
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP01.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP02.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E02
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP03.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E04
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP04.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E05
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP05.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E06 - OFF
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP06.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E06 - OFF
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP06.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP07.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E07
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP07.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP08.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E08
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP08.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP09.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E09
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP09.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP10.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E10
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP10.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP11.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E11
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP11.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP12.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E12
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP12.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP13.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E13
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP13.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E14 - OFF
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP14.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E14 - OFF
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP14.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E15 - OFF
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP15.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E15 - OFF
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP15.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E16 - OFF
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP16.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E16 - OFF
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP16.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP17.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E17
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP17.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP18.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E18
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP18.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP19.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E19
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP19.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E20
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP20.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E20
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP20.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP21.mp4?attachment=true
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E21
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP21.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT14EP22.mp4?attachment=true
-
-
+#EXTINF:0 tvg-logo="https://bit.ly/2XMwZeA" group-title="SERIES", CSI - 14ªT E22
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT14EP22.mp4?attachment=true
 
 
+
+
+#EXTINF:0 tvg-logo="https://bit.ly/2u0n6PP" group-title="filmes" sub-group-title="piratas do caribe",Piratas do Caribe: A Maldição do Pérola Negra
+https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/PRTSDCRB01.mp4?attachment=true
 
 
 
