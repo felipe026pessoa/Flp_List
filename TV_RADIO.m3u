@@ -7,7 +7,7 @@
  ------------------------------------------------------------------------------------------------------------
 #EXTINF:0 group-title="TV ABERTA",[COLOR darkred] ///////////////\\\\\\\\\\\\\\\[/COLOR]
  ------------------------------------------------------------------------------------------------------------
-#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>>>>TV ABERTA<<<<<<<<[/COLOR]
+#EXTINF:0 group-title="CANAIS ESPORTIVOS",[COLOR red] >>>>>>>TV ABERTA<<<<<<<[/COLOR]
  ------------------------------------------------------------------------------------------------------------    
                                            
 #EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="TV ABERTA", BAND
@@ -28,23 +28,23 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 #EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="TV ABERTA", RECORD HD - 2
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT SD 
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b176000_sleng.m3u8P
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1966999362_b176000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w666504380_b216000_sleng.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1810496993_b216000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT HD 2
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1944647911_b216000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT RECIFE - SD
+https://evpp.mm.uol.com.br//ne10/ne10.smil/chunklist_w1080398308_b176000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT HD 3
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w666504380_b216000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT RECIFE - HD
+https://evpp.mm.uol.com.br//ne10/ne10.smil/chunklist_w1080398308_b216000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="TV ABERTA", SBT CARUARU
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w342679154_b216000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2OJT21G" group-title="TV ABERTA",TV Jornal-SD(SBT-PE)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1499199289_b176000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2OJT21G" group-title="TV ABERTA",TV Jornal (SBT PE)
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w57605747_b216000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2OJT21G" group-title="TV ABERTA",TV Jornal-HD(SBT-PE)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1499199289_b216000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV RS
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w78412517.m3u8
@@ -52,10 +52,7 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w78412517.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w501586072.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV 
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="TV ABERTA", REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1812058478.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2sm7Bkx" group-title="TV ABERTA", TV Itararé
@@ -68,7 +65,13 @@ http://stream.tvitarare.com.br/hls/site/site_low/index.m3u8
 https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=949977790
 
 #EXTINF:0 tvg-logo="https://bit.ly/2r1ixTO" group-title="TV ABERTA",REDE MINAS HD
-https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w393028282.m3u8
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1570541842~exp=1570548442~acl=/*~hmac=808ff3f887bb1e9caffdf803cbe0ea94bfc94693cce38a141c7df32100a5ee42
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r1ixTO" group-title="TV ABERTA",REDE MINAS HD 2
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2r1ixTO" group-title="TV ABERTA",REDE MINAS - oficial
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1577501235~exp=1577507835~acl=/*~hmac=7d657b206097444ef2f5ef4e493fdf36bf096e0462bccc5782c6200efb558dd7
 
 #EXTINF:0 tvg-logo="https://bit.ly/37gw8Ho" group-title="TV ABERTA", TV GAZETA
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
@@ -93,9 +96,6 @@ https://caikron.com.br:8082/tvap/tvap/tvap/360p/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2On9S7j" group-title="TV ABERTA", TV Aparecida HD
 https://caikron.com.br:8082/tvap/tvap/tvap/720p/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://bit.ly/2On9S7j" group-title="TV ABERTA", TV Aparecida FHD
-https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8?nimblesessionid=27763815
 
 #EXTINF:0 tvg-logo="https://bit.ly/2DhC4SP" group-title="TV ABERTA", TV EVANGELIZAR
 http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w55920601.m3u8
@@ -133,8 +133,8 @@ https://streaming.wim.tv/live/_definst_/streamingautomototv_aac/chunklist_w20140
 #EXTINF:0 tvg-logo="https://bit.ly/2skdMFE" group-title="ESPORTES", Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://bit.ly/2raJAg1" group-title="ESPORTES", Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://bit.ly/2raJAg1" group-title="ESPORTES", Canal Motor (off)
+
 
 #EXTINF:0 tvg-logo="https://bit.ly/2quMN9R" group-title="ESPORTES", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w685720194_b1396000_sleng.m3u8
@@ -161,10 +161,13 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunkl
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2YrAIhY" group-title="ESPORTES", Tv One News
-https://stream-03.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybF65CN5rkTO2QfHSFpJvkRU)/dm/3/x619221/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybJ1ySvOucjTzHEKWS8w2Wz8)/dm/3/x619221/s/live-1.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/38h8wmE" group-title="ESPORTES", InfoPescar Tv
-https://r2---sn-bg07dner.googlevideo.com/videoplayback?expire=1575772457&ei=yQzsXYmyLc6WxASH6q7QAQ&ip=177.37.156.186&id=Y3QD4TRzJLc.0&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&fvip=2&keepalive=yes&fexp=23842630&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRQIhALn2rm5ylBIWhrJJvaF_SkKYZLHA0I3IQ2Z0U1PkvCG_AiBW_M7GTPF6mnNogy2HCz9VG0gAWUZLe7p_BcjG4rvSng%3D%3D&redirect_counter=1&cm2rm=sn-cgpn5oxu-wqv67l&req_id=67ad29e8057ca3ee&cms_redirect=yes&mm=29&mn=sn-bg07dner&ms=rdu&mt=1575751058&mv=m&mvi=1&pl=21&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRgIhAN1Vwspky3I-E21u85ACC7kuVWxD1xMlu8mCG7nxjU21AiEAoElnpVRKXst4qhhc2KF6xCoHcJ3_NXXOtrtsogsJYEg=
+#EXTINF:0 tvg-logo="https://bit.ly/2YrAIhY" group-title="ESPORTES", Tv One News 2
+https://stream-04.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybJ1ySvOucjTzHEKWS8w2Wz8)/dm/3/x619221/s/live-2.m3u8
+
+#EXTINF:0 tvg-logo="https://bit.ly/2YrAIhY" group-title="ESPORTES", Tv One News 3
+https://stream-04.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybJ1ySvOucjTzHEKWS8w2Wz8)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:0 tvg-logo="https://bit.ly/2YBL1QZ" group-title="ESPORTES", I News Tv
 https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
@@ -753,73 +756,73 @@ http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT01EP23.mp4?attachment=true
 --------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E01
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP01.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT01EP01.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E02
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP02.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP02.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E03
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP03.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP03.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E04
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP04.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP04.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E05
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP05.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP05.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E06
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP06.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP06.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E07
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP07.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP07.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E08
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP08.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP08.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E09
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP09.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP09.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E10
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP10.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP10.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E11
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP11.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP11.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E12
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP12.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP12.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E13
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP13.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP13.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E14
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP14.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP14.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E15
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP15.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP15.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E16
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP16.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP16.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E17
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP17.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP17.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E18
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP18.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP18.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E19
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP19.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP19.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E20
 http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP20.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E21
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP21.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP21.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E22
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP22.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP22.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="https://bit.ly/2OABc0T" group-title="SERIES", CSI - 2?T E23
-http://cdnfe3.azureedge.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
+https://dvpa3ulcl9eyc.cloudfront.net/RCServer11/ondemand/CSILAT02EP23.mp4?attachment=true
 
 #EXTINF:0 group-title="SERIES",[COLOR cyan] >>>>>3? TEMPORADA<<<<<[/COLOR]
 --------------------------------------------------------------------------------------------------------------------------
